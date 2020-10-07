@@ -26,7 +26,7 @@ header .container img {
 }
 
 main .row {
-  width: 50%;
+  width: 63%;
   height: calc(100vh - 170px);
   margin: auto;
 }
