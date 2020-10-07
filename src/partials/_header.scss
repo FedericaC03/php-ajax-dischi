@@ -1,3 +1,13 @@
-body {
-  background-color: red;
+header {
+  background-color: #2E3A46;
+  .container {
+    height:60px;
+    width: 60%;
+    margin: auto;
+    margin-bottom: 100px;
+    img {
+      width: 40px;
+      margin-top: 10px;
+    }
+  }
 }
