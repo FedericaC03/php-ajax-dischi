@@ -14,7 +14,7 @@ header {
 }
 
 header .container {
-  height: 60px;
+  height: 70px;
   width: 60%;
   margin: auto;
   margin-bottom: 100px;
@@ -22,28 +22,28 @@ header .container {
 
 header .container img {
   width: 40px;
-  margin-top: 10px;
+  margin-top: 15px;
 }
 
 main .row {
   width: 50%;
-  height: calc(100vh - 60px);
+  height: calc(100vh - 170px);
   margin: auto;
-  background-color: blue;
-  display: flex;
 }
 
 main .row .disc {
+  float: left;
   width: calc(25% - 40px);
   height: 350px;
   background-color: #2E3A46;
   margin-right: 40px;
   padding: 15px;
   text-align: center;
+  margin-bottom: 15px;
 }
 
 main .row .disc img {
-  width: 100%;
+  width: 170px;
 }
 
 main .row .disc .title h2 {
