@@ -1,4 +1,4 @@
-<?php include_once("src/partials/db.php") ?>
+n<?php include_once("src/partials/db.php") ?>
 
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
